@@ -25,7 +25,6 @@ public class Livros extends AppCompatActivity {
         });
 
     Button buttonPesquisar = findViewById(R.id.buttonPesquisar);
-
     buttonPesquisar.setOnClickListener(new View.OnClickListener() {
 
       }
