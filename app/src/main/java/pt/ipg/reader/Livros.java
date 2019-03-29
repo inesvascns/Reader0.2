@@ -27,8 +27,7 @@ public class Livros extends AppCompatActivity {
     Button buttonPesquisar = findViewById(R.id.buttonPesquisar);
     buttonPesquisar.setOnClickListener(new View.OnClickListener() {
 
-      }
-      }
+
         @Override
         public void onClick(View v) {
             EditText editTextNome = findViewById(R.id.editText);
@@ -43,5 +42,6 @@ public class Livros extends AppCompatActivity {
                 Toast.makeText(Livros.this,"Livro Pesquisado",Toast.LENGTH_SHORT).show();
             }
         }
+    });
     }
-
+}
