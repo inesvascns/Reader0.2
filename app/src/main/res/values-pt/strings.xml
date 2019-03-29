@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="pesquisar_livro">Pesquisar Livro</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="livros">Livros</string>
+    <string name="char_especiais">Caracteres especiais nao são válidos!</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="avaliar_livro">Avaliar Livro</string>
+    <string name="adicionar_livro">Adicionar Livro</string>
+    <string name="action_settings">Definições</string>
+    <string name="campo_obrigatorio">Campo obrigatório!</string>
+</resources>
